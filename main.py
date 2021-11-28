@@ -9,4 +9,4 @@ if __name__ == '__main__':
     compare_two_number(a, b)
 
     m = [1, 2, 3, 6, 8, 9, 10]
-    print(m[5])
+    print(m[4])
